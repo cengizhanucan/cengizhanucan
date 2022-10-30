@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @cengizhanucan
 - 👀 I’m interested in Robotics and Embedded Systems.
-- 🌱 I’m currently learning Java and C.
-- 💞️ I’m looking to collaborate on innovative projects!
+- 🌟 I’m profiecent in Java, Python and C.
+- 🌱 Currently learning Kotlin.
+- 💞️ I’m looking out to collaborate on innovative projects!
 - 📫 You can reach me from: cengizhanucan02@gmail.com
 
 <!---
